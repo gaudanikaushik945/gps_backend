@@ -3,7 +3,7 @@ const Joi = require('joi');
 // Define the Joi schema for driver validation
 // const driverValidationSchema = Joi.object({
 //   driverName: Joi.string().min(3).max(50).required(),
-//   password: Joi.string().min(6).max(128).required(),
+//   password: Joi.string().min(6).max(128).reqcjchxjchxjuired(),
 //   mobileNumber: Joi.number().min(10).required(), 
 //   carModel: Joi.string().min(2).max(50).required(),
 //   rcBookNumber: Joi.string().alphanum().min(5).max(20).required(), 
